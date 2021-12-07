@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?1cl1ae');
+  src:  url('fonts/icomoon.eot?1cl1ae#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?1cl1ae') format('truetype'),
+    url('fonts/icomoon.woff?1cl1ae') format('woff'),
+    url('fonts/icomoon.svg?1cl1ae#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-vertical_align_top:before {
+  content: "\e90e";
+}
+.icon-phone:before {
+  content: "\e900";
+}
+.icon-close:before {
+  content: "\e901";
+}
+.icon-dolar-house:before {
+  content: "\e902";
+}
+.icon-facebook:before {
+  content: "\e903";
+}
+.icon-house-icon:before {
+  content: "\e904";
+}
+.icon-icons-casa-dollar:before {
+  content: "\e905";
+}
+.icon-instagram:before {
+  content: "\e906";
+}
+.icon-mail:before {
+  content: "\e907";
+}
+.icon-map-pin:before {
+  content: "\e908";
+}
+.icon-menu:before {
+  content: "\e909";
+}
+.icon-Venda-casa:before {
+  content: "\e90a";
+}
+.icon-Venda-casa1:before {
+  content: "\e90b";
+}
+.icon-whatsapp:before {
+  content: "\e90c";
+}
+.icon-youtube:before {
+  content: "\e90d";
+}
